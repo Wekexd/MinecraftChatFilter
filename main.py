@@ -20,8 +20,8 @@ if __name__ == "__main__":
         os.makedirs("chat", exist_ok=False)
     print("---------")
     print("0 - Filtracja uzytkownika")
-    print("1 - Sprawdzanie czy gracz dropnal 633")
-    print("2 - Wszystkie dropy (specjalne)")
+    print("1 - Sprawdzanie czy gracz dropnal 633 (TRYHC)")
+    print("2 - Wszystkie dropy (specjalne) (TRYHC)")
     print("---------")
     tryb = input("Wybierz tryb: ")
     if(tryb == "0"):
